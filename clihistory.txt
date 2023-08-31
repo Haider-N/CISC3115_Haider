@@ -1,0 +1,16 @@
+   82  ls
+   83  mkdir assignment1
+   84  ls
+   85  mkdir javacode
+   86  cd javacode
+   87  vi javaprogram.txt
+   88  cd CISC3115_Haider
+   89  cd ..
+   90  pwd
+   91  cd CISC3115_Haider/javacode
+   92  cd /Users/haidernasar/desktop/CISC3115/CISC3115_Haider/javacode
+   93  cd ..
+   94  cd javacode
+   95  cd ..
+   96  ls
+   97  history
